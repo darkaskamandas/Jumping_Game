@@ -1,0 +1,1 @@
+Before starting the project unzip artifacts.zip all of them and PackageCache.zip 1 and 2
